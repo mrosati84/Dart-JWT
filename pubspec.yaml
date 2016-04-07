@@ -1,0 +1,7 @@
+name: jwt
+version: 0.0.1
+description: A simple console application.
+dev_dependencies:
+  test: '^0.12.13'
+dependencies:
+  crypto: '^1.0.0'
